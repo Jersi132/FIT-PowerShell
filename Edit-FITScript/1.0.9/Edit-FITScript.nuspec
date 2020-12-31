@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Edit-FITScript</id>
+    <version>1.0.9</version>
+    <authors>Simon</authors>
+    <owners>Focused IT</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Edit-FITScript - Easily edit files</description>
+    <releaseNotes>1.0.9 SG - 2017.12.12 Tidied script, added output</releaseNotes>
+    <copyright>(c) Focused IT. All rights reserved.</copyright>
+    <tags>PSModule PSIncludes_Function PSFunction_Edit-FITScript PSCommand_Edit-FITScript</tags>
+  </metadata>
+</package>
